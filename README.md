@@ -1,4 +1,4 @@
-# ChatWaifu2D
+# DigitalMate2D
 ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读
 
 # 软件特性
