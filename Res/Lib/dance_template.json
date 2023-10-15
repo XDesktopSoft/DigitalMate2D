@@ -1,0 +1,10 @@
+﻿{
+  "name":"New Dance",
+  "kind":"dance",
+  "type":"anim",
+  "isFile":false,
+  "src":"Mid_Rhythm_Dance_10",
+  "description":"",
+  "audio":"",
+  "properties":[]
+}

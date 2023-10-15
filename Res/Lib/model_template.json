@@ -1,0 +1,13 @@
+﻿{
+  "name":"New Model",
+  "kind":"model",
+  "type":"pmx",
+  "isFile":true,
+  "src":"",
+  "x":"0",
+  "zoom":1.2,
+  "autoWander":false,
+  "leftClickWalk":false,
+  "midClickWalk":false,
+  "properties":[]
+}

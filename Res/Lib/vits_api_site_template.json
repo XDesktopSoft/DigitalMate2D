@@ -1,0 +1,18 @@
+﻿{
+  "name":"New VITS-API Site",
+  "kind":"VITS_API_SITE",
+  "type":"VITS_API_SITE",
+  "src":"item.json",
+  "url":"https://excample.com/vits?id={{id}}&text={{text}}&format={{format}}&length={{length}}&noise={{noise}}&noisew={{noisew}}&sdp_ratio={{sdp_ratio}}",
+  "speakers":[],
+  "langs":[],
+  "defaultLang":"",
+  "format":"wav",
+  "needApiKey":true,
+  "length":"1",
+  "noise":"0.50",
+  "noisew":"0.90",
+  "sdp_ratio":"0.20",
+  "hint":"",
+  "tag":"VITS_API_SITE"
+}

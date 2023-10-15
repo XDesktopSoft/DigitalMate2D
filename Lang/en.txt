@@ -1,0 +1,5 @@
+﻿[Lang]
+LangName=English
+DigitalMate2D=DigitalMate2D
+
+

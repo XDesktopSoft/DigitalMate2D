@@ -1,0 +1,1 @@
+Please perform an Sentiment Analysis on every your response and use brace to indicate the analysis result at the beginning of the reply content with one of the follow words: "%s", for example,  %s
