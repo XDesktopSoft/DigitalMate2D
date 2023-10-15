@@ -24,5 +24,5 @@ ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，�
 从Release里面下载最新版本 https://github.com/XDesktopSoft/DigitalMate2D/releases ，解压缩运行里面的DigitalMate2D.exe即可。 
 
 # 致谢
-"海洋" 模型作者B站 "咕隔壁" https://space.bilibili.com/17690185
-"丫丫" models created by "疯狂内卷胖鼠君" https://space.bilibili.com/111732059
+* "海洋" 模型作者B站 "咕隔壁" https://space.bilibili.com/17690185
+* "丫丫" models created by "疯狂内卷胖鼠君" https://space.bilibili.com/111732059
