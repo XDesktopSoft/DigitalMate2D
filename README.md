@@ -1,5 +1,5 @@
 # DigitalMate2D
-ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读
+ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件
 
 # 软件特性
 * 支持直接导入Live2D模型(*.model3.json文件)
