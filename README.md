@@ -1,5 +1,5 @@
-# DigitalMate2D
-ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件
+# DigitalMate2D（数字伙伴2D 免费版）
+ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，支持Live2D
 
 # 软件特性
 * 支持直接导入Live2D模型(*.model3.json文件)
@@ -18,6 +18,10 @@ ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件
 * 支持GPT的越狱(需要从创意工坊下载越狱咒语)，越狱后可以解除GPT限制的聊天
 
 【注意】：支持从steam创意工坊下载各种人物角色模型以及催眠咒语和角色设定，以及可以下载更多语音朗读引擎包括支持本地推理的FastVITS和数千动漫人物声线的语音模型。
+
+
+# 使用方法
+从Release里面下载最新版本，解压缩运行里面的DigitalMate2D.exe即可。 
 
 # 致谢
 "丫丫" models created by "疯狂内卷胖鼠君" https://space.bilibili.com/111732059
