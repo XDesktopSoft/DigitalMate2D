@@ -21,7 +21,7 @@ ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，�
 
 
 # 使用方法
-从Release里面下载最新版本，解压缩运行里面的DigitalMate2D.exe即可。 
+从Release里面下载最新版本 https://github.com/XDesktopSoft/DigitalMate2D/releases ，解压缩运行里面的DigitalMate2D.exe即可。 
 
 # 致谢
 "丫丫" models created by "疯狂内卷胖鼠君" https://space.bilibili.com/111732059
