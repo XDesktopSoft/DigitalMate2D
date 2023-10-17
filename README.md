@@ -1,5 +1,5 @@
 # DigitalMate2D（数字伙伴2D 免费版）
-AI + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，支持Live2D
+AI + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，支持Live2D模型直接导入和自定义。
 更多功能正在开发中，欢迎欢迎进QQ群讨论：715846269
 
 # 软件特性
