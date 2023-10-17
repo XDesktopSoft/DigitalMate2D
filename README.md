@@ -1,9 +1,10 @@
 # DigitalMate2D（数字伙伴2D 免费版）
-ChatGPT + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，支持Live2D
+AI + Live2D + Real-Time-Voice实时语音识别和朗读，免费软件，支持Live2D
+更多功能正在开发中，欢迎欢迎进QQ群讨论：715846269
 
 # 软件特性
 * 支持直接导入Live2D模型(*.model3.json文件)
-* 支持FreeGPT/FakeGPT在线实时语音互动聊天，免魔法免账号，支持从steam创意工坊下载更多第三方在线聊天服务（例如:Claude/Claude2/Poe/GeekGPT/百度AI伙伴等）
+* 支持多个免魔法免账号的大语言AI模型在线实时语音互动聊天，支持从steam创意工坊下载更多第三方在线聊天服务（例如:百度AI伙伴/FakeGPT等）
 * 支持steam创意工坊
 * 支持本地快速语音唤醒、支持针对每个模型设置单独的自定义唤醒关键词
 * 支持本地快速语音命令自定义
